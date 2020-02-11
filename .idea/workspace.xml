@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_script" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -355,7 +355,7 @@
       <workItem from="1581214738408" duration="5237000" />
       <workItem from="1581307326473" duration="4000" />
       <workItem from="1581311448067" duration="988000" />
-      <workItem from="1581393576526" duration="3667000" />
+      <workItem from="1581393576526" duration="7545000" />
     </task>
     <servers />
   </component>
@@ -367,26 +367,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="506" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1581311626582" />
-    <state x="550" y="173" key="FileChooserDialogImpl" timestamp="1581395861866">
+    <state x="550" y="173" key="FileChooserDialogImpl" timestamp="1581400407612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="550" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581395861866" />
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1581394898747">
+    <state x="550" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581400407612" />
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1581404544105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581394898747" />
-    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1581394898747">
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581404544105" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1581404544105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581394898747" />
-    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1581394898747">
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581404544105" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1581404544105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581394898747" />
-    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1581394898747">
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581404544105" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1581404544105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581394898747" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581404544105" />
     <state x="385" y="54" key="SettingsEditor" timestamp="1581395872126">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
